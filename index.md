@@ -41,11 +41,19 @@ Timespan: January 1948 to October 2024
 
 # Results
 
-![Drought cycle in Washington, DC](drought_cycle.png)
+I began with exploration of the drought climatology and anomalies at a point in Washington, DC. We observe in this chart periods of relative moisture and drought that can span several months. The signal of periods of relative moisture and drought persist even across a year or 5 year running averages. The intensity of the relative moisture can vary, though the averages decrease the intensity relative to monthly patterns.
 
 ![Drought anomalies in Washington, DC](dc_drought_anom.png)
+Figure 1: Drought anomalies in Washington DC
 
+I brought in the soil moisture anomaly data at that same point to begin to review the relationship between drought and soil moisture.   
 ![Drought and soil across time in Washington, DC](dc_drought_soil.png)
+
+
+To und
+![Drought cycles](drought_cycle.png)
+Figure 2: Periods of relative drought, moisture, and neutral water regime, based on an index threshold of 0.5.
+
 
 ![Soil componsite based on drought cycles](drought_soil_comp.png)
 
