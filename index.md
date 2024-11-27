@@ -41,4 +41,18 @@ Timespan: January 1948 to October 2024
 
 # Results
 
+![Drought cycle in Washington, DC](drought_cycle.png)
+
+![Drought anomalies in Washington, DC](dc_drought_anom.png)
+
+![Drought and soil across time in Washington, DC](dc_drought_soil.png)
+
+![Soil componsite based on drought cycles](drought_soil_comp.png)
+
+![Soil and drought correlation](drought_soil_corr.png)
+
+![Soil linear regression based on drought](drought_soil_linr.png)
+
+
+
 # Summary
