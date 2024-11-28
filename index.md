@@ -65,3 +65,14 @@ To better understand the degree of the relationship between drought cycle and so
 ***Figure 6: Regression between Palmer Drought Severity Index and Soil Moisture Anomalies (p-value <0.001)***  
 
 # Summary  
+
+My analysis shows a significant positive relationship between drought and soil moisture across most of the United States. This relationship appears strongest in the Corn Belt and patches of the Intermountain West, Pacific Southwest and Mississippi Alluvial Valley. This relationship appears positive, but not always significant in the Pacific Northwest and in patches along the east coast including Florida and New England. In the Caribbean, the relationship appears negative at some locations.
+
+This analysis also introdued me to data access fragility. I was not able to access the data during a period following Hurricane Helene's disruption at the National Center for Environmental Information. This experience emphasized the importance of redundant and local storage as a resliency measure.
+
+My next steps would include:
+
+- Increasing understanding of the precipitation and temperature datasets underlying the soil moisture and drought models  
+- Exploring alternative datasets for drought and soil moisture to support these findings
+- Conducting the composite analysis across multiple thresholds for drought cycles  
+- Examining the regions identified for finer scale understanding of variation in the relationship  
