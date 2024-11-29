@@ -38,6 +38,10 @@ Timespan: January 1948 to October 2024
 
 # Code Description  
 
+I loaded the code for this analysis in a jupiter notebook found here: https://github.com/wapratt/Project/blob/master/clim680_project.ipynb  
+
+I loaded the environment used to run this code here: https://github.com/wapratt/Project/blob/master/clim_project.yaml  
+
 # Results  
 
 I began with exploration of the drought climatology and anomalies at a point in Washington, DC. We observe in this chart periods of relative moisture and drought that can span several months. The signal of periods of relative moisture and drought persist even across a year or 5 year running averages. The intensity of the relative moisture can vary, though the averages decrease the intensity relative to monthly patterns.  
@@ -60,15 +64,15 @@ In exploring the drought cycle and soil moisture relationship further, I created
 ![Soil and drought correlation](drought_soil_corr.png)  
 ***Figure 5: Correlation between Palmer Drought Severity Index and Soil Moisture Anomalies (p-value <0.005)***  
 
-To better understand the degree of the relationship between drought cycle and soil moisture, I created a map of the slope of the linear regression with areas of significance shown to a p-value of 0.001. While the linear regression map showed a consistently broad extent of significance, the slope showed qualitative regional variation in the slope.  
+To better understand the intensity of the relationship between drought cycle and soil moisture, I created a map of the slope of the linear regression with areas of significance shown to a p-value of 0.001. While the linear regression map demonstrates a consistently broad extent of significance, I observed regional variation in the slope qualitatively.  
 ![Soil linear regression based on drought](drought_soil_linr.png)  
 ***Figure 6: Regression between Palmer Drought Severity Index and Soil Moisture Anomalies (p-value <0.001)***  
 
 # Summary  
 
-My analysis shows a significant positive relationship between drought and soil moisture across most of the United States. This relationship appears strongest in the Corn Belt and patches of the Intermountain West, Pacific Southwest and Mississippi Alluvial Valley. This relationship appears positive, but not always significant in the Pacific Northwest and in patches along the east coast including Florida and New England. In the Caribbean, the relationship appears negative at some locations.
+My analysis shows a significant positive relationship between drought and soil moisture across most of the United States. This relationship appears strongest in the Corn Belt and patches of the Intermountain West, Pacific Southwest and Mississippi Alluvial Valley. This relationship appears positive, but not always significant in the Pacific Northwest and in patches along the east coast including Florida and New England. In the Caribbean, the relationship appears negative at some points.
 
-This analysis also introdued me to data access fragility. I was not able to access the data during a period following Hurricane Helene's disruption at the National Center for Environmental Information. This experience emphasized the importance of redundant and local storage as a resliency measure.
+This analysis also introduced me to data access fragility. I was not able to access the data during a period following Hurricane Helene's disruption at the National Center for Environmental Information. This experience emphasized the importance of redundant and local storage as a resliency measure.
 
 My next steps would include:
 
