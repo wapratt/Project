@@ -38,7 +38,7 @@ Timespan: January 1948 to October 2024
 
 # Code Description  
 
-I loaded the code for this analysis in a jupiter notebook found here: https://github.com/wapratt/Project/blob/master/clim680_project.ipynb  
+I loaded the code for this analysis in a jupyter notebook found here: https://github.com/wapratt/Project/blob/master/clim680_project.ipynb  
 
 I loaded the environment used to run this code here: https://github.com/wapratt/Project/blob/master/clim_project.yaml  
 
@@ -79,4 +79,5 @@ My next steps would include:
 - Increasing understanding of the precipitation and temperature datasets underlying the soil moisture and drought models  
 - Exploring alternative datasets for drought and soil moisture to support these findings
 - Conducting the composite analysis across multiple thresholds for drought cycles  
-- Examining the regions identified for finer scale understanding of variation in the relationship  
+- Examining the regions individually to develop finer scale understanding of variation in the relationship
+- Use interpolated drought data to develop finer scale statistical analysis
