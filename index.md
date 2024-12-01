@@ -70,7 +70,7 @@ To better understand the intensity of the relationship between drought cycle and
 
 # Summary  
 
-My analysis shows a significant positive relationship between drought and soil moisture across most of the United States. This relationship appears strongest in the Corn Belt and patches of the Intermountain West, Pacific Southwest and Mississippi Alluvial Valley. This relationship appears positive, but not always significant in the Pacific Northwest and in patches along the east coast including Florida and New England. In the Caribbean, the relationship appears negative at some points.
+My analysis shows a significant positive relationship between drought and soil moisture across most of the United States. The subtleties of regional variance in the relationship is clearest in the composite analysis followed by the slope of the linear regression and then the correlation analysis. This relationship appears strongest in the Corn Belt and patches of the Intermountain West, Pacific Southwest and Mississippi Alluvial Valley. This relationship appears positive, but not always significant in the Pacific Northwest and in patches along the east coast including Florida and New England. In the Caribbean, the relationship appears negative at some locations.
 
 This analysis also introduced me to data access fragility. I was not able to access the data during a period following Hurricane Helene's disruption at the National Center for Environmental Information. This experience emphasized the importance of redundant and local storage as a resliency measure.
 
