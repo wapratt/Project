@@ -12,7 +12,7 @@ Water is vital to human systems, including agricultural production. Drought is a
 
 ***Palmer Drought Severity Index:*** identifies relative wet or dry conditions based on temperature, precipitation, and soil-water holding capacity  
 
-Source: [](https://psl.noaa.gov/data/gridded/data.pdsi.html)  
+Source: [PDSI](https://psl.noaa.gov/data/gridded/data.pdsi.html)  
 
 Spatial Resolution: 2.5 degrees  
 
@@ -26,7 +26,7 @@ Timespan: January 1870 to December 2005
 
 ***Climate Prediction Center Soil Moisture V2:*** models soil moisture based on monthly precipitation and temperature  
 
-Source: [](https://psl.noaa.gov/data/gridded/data.cpcsoil.html)  
+Source: [Soil Moisture](https://psl.noaa.gov/data/gridded/data.cpcsoil.html)  
 
 Spatial Resolution: 0.5 degrees  
 
@@ -38,9 +38,9 @@ Timespan: January 1948 to October 2024
 
 # Code Description  
 
-I loaded the code for this analysis in a jupyter notebook found here: [](https://github.com/wapratt/Project/blob/master/clim680_project.ipynb)  
+I loaded the code for this analysis in a jupyter notebook found here: [Code](https://github.com/wapratt/Project/blob/master/clim680_project.ipynb)  
 
-I loaded the environment used to run this code here: [](https://github.com/wapratt/Project/blob/master/clim_project.yaml)  
+I loaded the environment used to run this code here: [Environment](https://github.com/wapratt/Project/blob/master/clim_project.yaml)  
 
 # Results  
 
